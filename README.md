@@ -1,1 +1,2 @@
-[Exceedances in the current year 2022 (PM₁₀ _ 50 μg_m³ ).pdf](https://github.com/Shuvam-M-Astro/Data-Visualization-of-Pollutants-and-Exceedences-across-German-states/files/9899212/Exceedances.in.the.current.year.2022.PM._.50.g_m.pdf)
+
+![PM](https://user-images.githubusercontent.com/96789016/198961124-f1aa1e3f-e8a8-41ef-930c-e35486ac2680.png)
